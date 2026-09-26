@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CricPulse</string>
+    <string name="nav_batting">Batting</string>
+    <string name="nav_live_training">Live Nets</string>
+    <string name="nav_cycle">Cycle &amp; Athlete</string>
+    <string name="nav_insights">Analytics</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "CricPulse",
+  "description": "Real-time cricket batting averages, live training session tracker, and cycle phase athletic health optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
